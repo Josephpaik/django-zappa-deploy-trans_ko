@@ -1,0 +1,5 @@
+[S3]
+arn:aws:s3:::zappa-jspaik-20190206
+
+[IAM]
+arn:aws:iam::178222462260:user/deployuser

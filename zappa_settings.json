@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "pollsapi.settings", 
+        "profile_name": null, 
+        "project_name": "pollsapi", 
+        "runtime": "python2.7", 
+        "s3_bucket": "zappa-jspaik-20190206",
+	"aws_region": "ap-northeast-2"
+    }
+}
